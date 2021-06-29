@@ -30,6 +30,21 @@ header{
 }
 
 
+.testimonial{
+    border-left: 2px solid rgba(128, 0, 128, 0.5);
+}
+
+.influencor{
+    display: flex;
+    align-items: center;
+}
+#testimonial{
+    background-color: rgba(254, 232, 221, 1);
+    text-align: center;
+    padding: 2%;
+}
+
+
 
 footer{
     background-color: rgba(68, 99, 164, 1);
@@ -70,9 +85,10 @@ footer{
 .follow{
     width: 100%;
     text-align: center;
-    margin-top: 3%;
+    margin-top: 3%; 
 }
 .social{
     display: flex;
     justify-content: space-around;
+    margin-top: 3%; margin-left: 5%; margin-right: 5%;
 }
