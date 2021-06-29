@@ -7,6 +7,7 @@ header{
 
 .my-navbar{
     display: flex; flex-direction: row;
+    justify-content: space-between;
 
 }
 #home{
@@ -23,7 +24,7 @@ header{
 }
 
 #sign-up{
-    padding-left: 1%; margin-right: 0%;
+    padding-left: 1%;
 }
 
 
