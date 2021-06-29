@@ -1,14 +1,16 @@
-.{
+body{
     font-family: 'Itim', cursive;
+    color: rgba(128, 0, 128, 1);
 }
 header{
-    border-bottom: 2px solid rgba(0, 0, 0, 0.29);
+    border-bottom: 2px solid rgba(128, 0, 128, 0.5);
+    color: rgba(128, 0, 128, 1);
 }
 
 .my-navbar{
     display: flex; flex-direction: row;
     justify-content: space-between;
-
+    margin-bottom: 0%;
 }
 #home{
     padding-left: 1%;
@@ -28,6 +30,11 @@ header{
 }
 
 
+
+footer{
+    background-color: rgba(68, 99, 164, 1);
+    color: white;
+}
 .subscribe{
     display: flex; flex-direction: row;
 }
