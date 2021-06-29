@@ -1,0 +1,61 @@
+.{
+    font-family: 'Itim', cursive;
+}
+header{
+    border-bottom: 2px solid rgba(0, 0, 0, 0.29);
+}
+
+.my-navbar{
+    display: flex; flex-direction: row;
+
+}
+#home{
+    padding-left: 1%;
+}
+#about{
+    padding-left: 1%;
+}
+#contacts{
+    padding-left: 1%; 
+}
+#log-in{
+    padding-left: 1%;
+}
+
+#sign-up{
+    padding-left: 1%; margin-right: 0%;
+}
+
+
+.subscribe{
+    display: flex; flex-direction: row;
+}
+#email-input{
+    width: 80%;
+    margin-left: 5%;
+    background-color: white;
+    border: none; border-radius: 10px;
+}
+#subscribe{
+    width: 20%;
+    margin-right: 5%;
+    background-color: rgba(165, 42, 42, 1);
+    color: white;
+    border: 2px solid white; border-left: none;
+    border-radius: 10px;
+}
+
+.location{
+    display: flex; flex-direction: row;
+    justify-content: space-between;
+    margin-top: 2%; margin-left: 8%; margin-right: 8%;
+}
+
+.location>div>p{
+    font-size: 80%;
+    line-height: 1em;
+}
+.social{
+    display: flex;
+    justify-content: space-between;
+}
