@@ -34,6 +34,7 @@ header{
 footer{
     background-color: rgba(68, 99, 164, 1);
     color: white;
+    padding-top: 2%;
 }
 .subscribe{
     display: flex; flex-direction: row;
@@ -47,23 +48,31 @@ footer{
 #subscribe{
     width: 20%;
     margin-right: 5%;
-    background-color: rgba(165, 42, 42, 1);
+    background-color: rgba(68, 99, 164, 1);
     color: white;
     border: 2px solid white; border-left: none;
     border-radius: 10px;
 }
 
-.location{
-    display: flex; flex-direction: row;
-    justify-content: space-between;
-    margin-top: 2%; margin-left: 8%; margin-right: 8%;
+.faq{
+    margin-top: 2%; margin-left: 8%; 
 }
 
-.location>div>p{
+#terms{
+    margin-top: 2%; margin-left: 8%; 
+}
+
+.faq>div>p{
     font-size: 80%;
     line-height: 1em;
 }
+
+.follow{
+    width: 100%;
+    text-align: center;
+    margin-top: 3%;
+}
 .social{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
