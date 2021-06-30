@@ -1,0 +1,22 @@
+#aboutDelani {
+	text-align: center;
+}
+
+#whatWeDo {
+	text-align: center;
+	padding-left: 10px;
+}
+
+h3,
+h2 {
+	font-weight: bold;
+}
+
+h2,
+h4 {
+	text-align: center;
+}
+
+/*#image-icons {
+	text-align: center;
+}*/
