@@ -1,7 +1,7 @@
 $(document).ready(function () {
 	$("#influencer-icon").click(function () {
 	  $("#influencer-icon").hide();
-	  $("#design-paragraph").show();
+	  $("#influencer-paragraph").show();
 	});
 	$("#influencer-paragraph").click(function () {
 	  $("#influencer-icon").show();
