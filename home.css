@@ -48,10 +48,13 @@ header{
     padding-left: 2%;
 }
 
-#content-details{
+#content-details, #influencer-details, #brand-details{
     border: solid 2px rgba(245, 141, 113, 1);
     background-color: rgba(254, 232, 221, 1);
     display: none;
+}
+.content:hover, .influencer:hover, .brand:hover{
+    cursor: pointer;
 }
 
 
