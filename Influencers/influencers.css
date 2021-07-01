@@ -70,3 +70,41 @@ footer{
     border: 2px solid white; border-left: none;
     border-radius: 10px;
 }
+h1 {
+    text-align: center;
+
+}
+
+.kenar{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: whitesmoke;
+}
+
+#kenar-1{
+    padding-bottom: 50px;
+    padding-right: 0;
+    text-align: center;
+    background-color: #3DB2C4;
+    width: 400px;
+}
+
+#Flaqo{
+    padding-bottom: 50px;
+    padding-right: 0;
+    text-align: center;
+    background-color: #3DB2C4;
+    width: 400px;
+}
+
+#Azziad{
+    padding-bottom: 50px;
+    padding-right: 0;
+    text-align: center;
+    background-color: #3DB2C4;
+    width: 400px;
+}
+
+p{
+    text-align: center;
+}
