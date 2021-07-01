@@ -4,6 +4,6 @@ $(document).ready(function(){
         var name = $("#name").val();
         var email = $("#email").val();
         
-        alert("We'll send you a Demo soon! Thank you for reaching");
+        alert("We'll send you a Demo soon! Thank you for reaching out to us");
     });
 });
