@@ -106,10 +106,14 @@ footer{
   }
   
   .about-section {
+    margin-top: 50px;
     padding: 50px;
     text-align: center;
     background-color: #770677;
     color: white;
+    margin: auto;
+    width: 80%;
+    padding-top: 50px;
   }
   
   .container {
@@ -148,3 +152,8 @@ footer{
       display: block;
     }
   }
+
+.row {
+    margin-top: 30px;
+    
+}
