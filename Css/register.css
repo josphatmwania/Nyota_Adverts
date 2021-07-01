@@ -67,7 +67,7 @@ hr {
 	opacity: 1;
 }
 
-/* Add a blue text color to links */
+/* Add a purple text color to links */
 a {
 	color: #770677;
 }
@@ -82,4 +82,45 @@ img{
 	height: 400px;
 	width: 400px;
 	border-radius: 6px;
+}
+
+header {
+	border-bottom: 2px solid rgba(128, 0, 128, 0.5);
+	color: rgba(128, 0, 128, 1);
+}
+
+.my-navbar {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding-top: 10px;
+}
+
+#home {
+	padding-left: 1%;
+}
+
+#about {
+	padding-left: 1%;
+}
+
+#contacts {
+	padding-left: 1%;
+}
+
+#log-in {
+	padding-left: 1%;
+}
+
+#sign-up {
+	padding-left: 1%;
+}
+
+.col-md-1,  .col-md-1 .logo{
+	height: 100px;
+	width: 100px;
+}
+
+.my-navbar a{
+	color: #770677;
 }
