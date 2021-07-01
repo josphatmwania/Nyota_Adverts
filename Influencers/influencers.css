@@ -1,0 +1,116 @@
+body{
+    font-family: 'Itim', cursive;
+    color: rgba(128, 0, 128, 1);
+}
+header{
+    border-bottom: 2px solid rgba(128, 0, 128, 0.5);
+    color: rgba(128, 0, 128, 1);
+}
+
+.my-navbar{
+    display: flex; flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 0%;
+}
+#home{
+    padding-left: 1%;
+}
+#about{
+    padding-left: 1%;
+}
+#contacts{
+    padding-left: 1%; 
+}
+#log-in{
+    padding-left: 1%;
+}
+
+#sign-up{
+    padding-left: 1%;
+}
+
+
+.testimonial{
+    border-left: 2px solid rgba(128, 0, 128, 0.5);
+}
+
+.influencor{
+    display: flex;
+    align-items: center;
+}
+#testimonial{
+    background-color: rgba(254, 232, 221, 1);
+    text-align: center;
+    padding: 2%;
+}
+.card {
+    text-align: center;
+}
+
+
+footer{
+    background-color: rgba(68, 99, 164, 1);
+    color: white;
+    padding-top: 2%;
+}
+.subscribe{
+    display: flex; flex-direction: row;
+}
+#email-input{
+    width: 80%;
+    margin-left: 5%;
+    background-color: white;
+    border: none; border-radius: 10px;
+}
+#subscribe{
+    width: 20%;
+    margin-right: 5%;
+    background-color: rgba(68, 99, 164, 1);
+    color: white;
+    border: 2px solid white; border-left: none;
+    border-radius: 10px;
+}
+h1 {
+    text-align: center;
+
+}
+
+.kenar{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: whitesmoke;
+}
+
+#kenar-1{
+    padding-bottom: 50px;
+    padding-right: 0;
+    text-align: center;
+    background-color: rgba(254, 232, 221, 1);
+    ;
+    width: 400px;
+}
+
+#Flaqo{
+    padding-bottom: 50px;
+    padding-right: 0;
+    text-align: center;
+    background-color: rgba(254, 232, 221, 1);
+    width: 400px;
+}
+
+#Azziad{
+    padding-bottom: 50px;
+    padding-right: 0;
+    text-align: center;
+    background-color: rgba(254, 232, 221, 1);
+    width: 400px;
+}
+
+p{
+    text-align: center;
+}
+.btn btn-sm mt-2 {
+    color: darkred;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 300;
+}
