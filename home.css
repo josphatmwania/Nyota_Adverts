@@ -69,9 +69,7 @@ header{
     display: flex; justify-content: space-around;
     border-left: 2px solid rgba(128, 0, 128, 0.5);
 }
-.testimonial{
-    
-}
+
 
 .influencor{
     display: flex;
