@@ -85,7 +85,8 @@ h1 {
     padding-bottom: 50px;
     padding-right: 0;
     text-align: center;
-    background-color: #3DB2C4;
+    background-color: rgba(254, 232, 221, 1);
+    ;
     width: 400px;
 }
 
@@ -93,7 +94,7 @@ h1 {
     padding-bottom: 50px;
     padding-right: 0;
     text-align: center;
-    background-color: #3DB2C4;
+    background-color: rgba(254, 232, 221, 1);
     width: 400px;
 }
 
@@ -101,10 +102,11 @@ h1 {
     padding-bottom: 50px;
     padding-right: 0;
     text-align: center;
-    background-color: #3DB2C4;
+    background-color: rgba(254, 232, 221, 1);
     width: 400px;
 }
 
 p{
     text-align: center;
 }
+

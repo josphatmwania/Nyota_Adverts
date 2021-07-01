@@ -1,0 +1,45 @@
+    /* Styling the form */
+
+.form-control {
+    background: cyan;
+    border: none;
+    box-shadow: none;
+    border-radius: 0;
+    border-bottom: 1px solid #b0c3d6;
+    
+ }
+ 
+ .form-control:focus {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+ }
+ 
+ .form-group {
+    position: relative;
+    width: 50%;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    padding-bottom: 15px;
+ }
+ .form-group label {
+    color: #a0aec0;
+    font-size: 0.8rem;
+ }
+ .form-group input + label {
+    position: absolute;
+    top: 0.2rem;
+    left: 0.5rem;
+    pointer-events: none;
+    transition: 200ms ease;
+ }
+ .form-group input:focus + label,
+ .form-group input + label.freeze {
+    transform: translateY(-0.8rem);
+    font-size: 0.5rem;
+ }
+.demo3-section {
+   margin-bottom: 15px;
+}
+
+}
