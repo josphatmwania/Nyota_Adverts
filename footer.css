@@ -1,0 +1,44 @@
+body{
+    background-color: #770677;
+    color: white;
+   
+}
+.row{
+    margin: 150px;
+}
+.contacts{
+    text-decoration: underline;
+}
+img{
+    padding: 10px;
+}
+a{
+    color: blue;
+}
+a:hover{
+    color: white;
+}
+.ig{
+    width: 63px;
+}
+button:hover{
+    background-color: #770677;
+}
+.copyright{
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+@media only screen and (max-width: 600px) {
+    body{
+        margin: 0px;
+        text-align: left;
+    }
+    img{
+        width: 50px;
+    }
+    .ig{
+        width: 50px;
+    }
+
+}
