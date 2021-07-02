@@ -18,7 +18,7 @@ This is a web application that bridges the gap between influncers and brands; In
 - Run index.html file On your browser. 
 
 ## UI link to gh-pages:
-
+https://josphatmwania.github.io/Nyota_Adverts/
 
 ## Technologies Used
 This project is written in:
