@@ -28,7 +28,9 @@ header{
 #sign-up{
     padding-left: 1%;
 }
-
+.my-navbar>a{
+    text-decoration: none;
+    color: rgba(128, 0, 128, 1);
 
 .testimonial{
     border-left: 2px solid rgba(128, 0, 128, 0.5);

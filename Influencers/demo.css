@@ -34,6 +34,9 @@ header{
 .testimonial{
    border-left: 2px solid rgba(128, 0, 128, 0.5);
 }
+.my-navbar>a{
+   text-decoration: none;
+   color: rgba(128, 0, 128, 1);
 
 .influencor{
    display: flex;

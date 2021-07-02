@@ -25,6 +25,11 @@ button {
 	cursor: pointer;
 	width: 100%;
 }
+.my-navbar>a{
+    text-decoration: none;
+    color: rgba(128, 0, 128, 1);y
+}
+
 
 button:hover {
 	opacity: 0.8;

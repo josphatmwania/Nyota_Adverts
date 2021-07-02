@@ -115,7 +115,11 @@ footer{
     padding-top: 50px;
     margin: 20px;
   }
-  
+  .my-navbar>a{
+    text-decoration: none;
+    color: rgba(128, 0, 128, 1);y
+}
+
   .container {
     padding: 0 16px;
   }
