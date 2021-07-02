@@ -92,7 +92,7 @@ header{
 .demo{
     display: flex; justify-content: center;
 }
-.demo>button{
+.demo-button{
     background-color: rgba(68, 99, 164, 1);
     border: none;
     border-radius: 10px;
